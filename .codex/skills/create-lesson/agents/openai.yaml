@@ -1,0 +1,5 @@
+interface:
+  display_name: "Create Lesson"
+  short_description: "Create numbered Bevy lesson crates"
+  default_prompt: "Use $create-lesson to add a new Bevy lesson crate."
+

@@ -1,0 +1,10 @@
+[workspace]
+members = [
+    "Bevy/Crates/Lesson_01_NoPlugins",
+    "Bevy/Crates/Lesson_02_NoPluginsComponent",
+    "Bevy/Crates/Lesson_03_SomePlugins",
+    "Bevy/Crates/Lesson_04_DefaultPlugins",
+    "Bevy/Crates/Lesson_05_Basic2D",
+    "Bevy/Crates/Lesson_06_Basic3D",
+]
+resolver = "3"
