@@ -18,15 +18,15 @@ Small, self-contained Bevy lesson crates for learning engine basics one step at 
 
 ## Scripts
 
-| # | Name | Description |
-| -- | ---- | ----------- |
-| 00 | [`Install_Dependencies.ps1`](./Scripts/Common/Install_Dependencies.ps1) | Installs dependencies and checks the workspace. |
-| 01 | [`Run_Lesson_01_NoPlugins.ps1`](./Scripts/Common/Run_Lesson_01_NoPlugins.ps1) | Shows a Bevy app without plugins. |
-| 02 | [`Run_Lesson_02_NoPluginsComponent.ps1`](./Scripts/Common/Run_Lesson_02_NoPluginsComponent.ps1) | Shows components and delayed logging. |
-| 03 | [`Run_Lesson_03_SomePlugins.ps1`](./Scripts/Common/Run_Lesson_03_SomePlugins.ps1) | Shows a minimal window plugin set. |
-| 04 | [`Run_Lesson_04_DefaultPlugins.ps1`](./Scripts/Common/Run_Lesson_04_DefaultPlugins.ps1) | Shows a window with DefaultPlugins. |
-| 05 | [`Run_Lesson_05_Basic2D.ps1`](./Scripts/Common/Run_Lesson_05_Basic2D.ps1) | Shows basic 2D keyboard movement. |
-| 06 | [`Run_Lesson_06_Basic3D.ps1`](./Scripts/Common/Run_Lesson_06_Basic3D.ps1) | Shows basic 3D keyboard movement. |
+| # | Name | Description | 1st Run | 2nd Run |
+| -- | ---- | ----------- | ------- | ------- |
+| 00 | [`Install_Dependencies.ps1`](./Scripts/Common/Install_Dependencies.ps1) | Installs dependencies and builds the lesson cache. | 176secs | 07secs |
+| 01 | [`Run_Lesson_01_NoPlugins.ps1`](./Scripts/Common/Run_Lesson_01_NoPlugins.ps1) | Shows a Bevy app without plugins. | 05secs | 05secs |
+| 02 | [`Run_Lesson_02_NoPluginsComponent.ps1`](./Scripts/Common/Run_Lesson_02_NoPluginsComponent.ps1) | Shows components and delayed logging. | 06secs | 06secs |
+| 03 | [`Run_Lesson_03_SomePlugins.ps1`](./Scripts/Common/Run_Lesson_03_SomePlugins.ps1) | Shows a minimal window plugin set. | 05secs | 05secs |
+| 04 | [`Run_Lesson_04_DefaultPlugins.ps1`](./Scripts/Common/Run_Lesson_04_DefaultPlugins.ps1) | Shows a window with DefaultPlugins. | 05secs | 05secs |
+| 05 | [`Run_Lesson_05_Basic2D.ps1`](./Scripts/Common/Run_Lesson_05_Basic2D.ps1) | Shows basic 2D keyboard movement. | 05secs | 05secs |
+| 06 | [`Run_Lesson_06_Basic3D.ps1`](./Scripts/Common/Run_Lesson_06_Basic3D.ps1) | Shows basic 3D keyboard movement. | 05secs | 05secs |
 
 ## Resources
 

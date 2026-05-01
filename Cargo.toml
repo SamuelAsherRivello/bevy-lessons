@@ -8,3 +8,11 @@ members = [
     "Bevy/Crates/Lesson_06_Basic3D",
 ]
 resolver = "3"
+
+# Bevy's recommended dev settings: keep local crate rebuilds quick while
+# compiling dependencies with enough optimization for usable runtime speed.
+[profile.dev]
+opt-level = 1
+
+[profile.dev.package."*"]
+opt-level = 3
